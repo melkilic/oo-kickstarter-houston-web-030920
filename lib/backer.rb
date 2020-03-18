@@ -19,6 +19,8 @@ class Backer
     end
 end
 
-# melike = Backer.new("melike")
-# angelo = Backer.new("angelo")
-# josh = Backer.new("josh")
+melike = Backer.new("melike")
+angelo = Backer.new("angelo")
+josh = Backer.new("josh")
+
+binding.pry

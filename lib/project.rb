@@ -24,6 +24,6 @@ class Project
 
 end
 
-# new_company = Project.new("new")
-# operation = Project.new("operation")
-
+new_company = Project.new("new")
+operation = Project.new("operation")
+ binding.pry
